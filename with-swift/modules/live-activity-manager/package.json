@@ -1,0 +1,9 @@
+{
+    "name": "live-activity-manager",
+    "version": "1.0.0",
+    "main": "./index.ts",
+    "types": "./src/LiveActivityManager.types.ts",
+    "private": true
+  }
+  
+  
